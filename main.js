@@ -109,7 +109,7 @@ const channelInfo = {
         isForwarded: true,
         forwardedNewsletterMessageInfo: {
             newsletterJid: '12036316151368998@newsletter',
-            newsletterName: 'B͎E͎N͎Z͎ C͎O͎M͎P͎A͎N͎Y͎ X͎M͎D͎',
+            newsletterName: '★~ĂB Đ●ĽÅH ♡💲♧',
             serverMessageId: -1
         }
     }
@@ -864,7 +864,7 @@ async function handleGroupParticipantUpdate(sock, update) {
                         isForwarded: true,
                         forwardedNewsletterMessageInfo: {
                             newsletterJid: channelId,
-                            newsletterName: 'B͎E͎N͎Z͎ C͎O͎M͎P͎A͎N͎Y͎ X͎M͎D͎',
+                            newsletterName: '★~ĂB Đ●ĽÅH ♡💲♧',
                             serverMessageId: -1
                         }
                     }
@@ -903,7 +903,7 @@ async function handleGroupParticipantUpdate(sock, update) {
                         isForwarded: true,
                         forwardedNewsletterMessageInfo: {
                             newsletterJid: channelId,
-                            newsletterName: 'B͎E͎N͎Z͎ C͎O͎M͎P͎A͎N͎Y͎ X͎M͎D͎',
+                            newsletterName: '★~ĂB Đ●ĽÅH ♡💲♧',
                             serverMessageId: -1
                         }
                     }
